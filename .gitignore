@@ -1,0 +1,16 @@
+# Fish shell
+fish_variables
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+thu_feb_05_2026_fish_shell_plugin_for_kimi_cli.md
